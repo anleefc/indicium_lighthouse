@@ -1,0 +1,15 @@
+# Ambiente virtual Python
+.venv/
+
+# Configurações do VSCode
+.vscode/
+
+# Dados persistidos do PostgreSQL
+dbdata/
+
+# Logs do Airflow
+logs/
+
+# Arquivos temporários Python
+__pycache__/
+*.pyc
